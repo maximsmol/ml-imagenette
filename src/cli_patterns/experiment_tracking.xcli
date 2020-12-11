@@ -1,0 +1,14 @@
+intro
+Experiment Tracking API loaded
+\end
+
+libgit_version
+libgit version: {major}.{minor}.{revision}
+\end
+
+repo info
+Repository path: {path}
+References: {refs}
+Branches: {branches}
+Remotes: {remotes}
+\end
